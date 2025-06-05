@@ -29,15 +29,23 @@ To understand what makes a password strong and to evaluate password strength usi
  - [Zoho.com](https://www.zoho.com/vault/password-generator.html)
   
     Zoho is a free online password generator that creates strong, random passwords using customizable options like length, symbols,            numbers, and uppercase letters. It's useful for quickly generating secure, unique passwords for accounts or applications.
-    ![Zoho Interface](/screenshots/)
+   
+    ![Zoho Interface](/screenshots/zoho.png)
 
 -  [PasswordMeter.com](http://www.passwordmeter.com/)
 
    PasswordMeter is a free password strength evaluation tool that scores your password based on complexity rules (like character types,       repetitions, length, etc.). It provides both a numeric score and feedback to help improve password security.
 
+   ![Passwordmeter Interface](/screenshots/passwordmeter.png)
+
 - [Bitwarden](https://bitwarden.com/password-strength/)
 
    Bitwarden Password Strength Checker is an online tool that analyzes password strength by testing against common weaknesses. It provides    a visual strength meter, suggestions, and insight into how secure your password is against attacks.
+
+   ![Bitwarden Details](/screenshots/bitwarden.png)
+
+  `zxcvbn` is an open-source password strength estimation tool developed by Dropbox.
+  [zxcvbn on github](https://github.com/dropbox/zxcvbn)
  
 ## ⚠ Disclaimer
 
