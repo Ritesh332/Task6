@@ -9,7 +9,7 @@ To understand what makes a password strong and to evaluate password strength usi
 
 1. Created multiple passwords of varying complexity using:
 
-    [Password Generator](https://www.zoho.com/vault/password-generator.html)
+    [Zoro.com](https://www.zoho.com/vault/password-generator.html) (Password Generator)
    
     [Nord Pass](https://nordpass.com/most-common-passwords-list/) (for common passwords list specifically in India)
 2. Tested each one using an online strength checker like:
