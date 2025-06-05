@@ -9,7 +9,7 @@ To understand what makes a password strong and to evaluate password strength usi
 
 1. Created multiple passwords of varying complexity using:
 
-    [Zoro.com](https://www.zoho.com/vault/password-generator.html) (Password Generator)
+    [Zoho.com](https://www.zoho.com/vault/password-generator.html) (Password Generator)
    
     [Nord Pass](https://nordpass.com/most-common-passwords-list/) (for common passwords list specifically in India)
 2. Tested each one using an online strength checker like:
@@ -24,6 +24,12 @@ To understand what makes a password strong and to evaluate password strength usi
    - Dictionary attack
 6. Summarized how password complexity and length improve security.
 
+## Additional Information
+
+ - [Zoho.com](https://www.zoho.com/vault/password-generator.html)
+  
+    Zoho is a free online password generator that creates strong, random passwords using customizable options like length, symbols,            numbers, and uppercase letters. It's useful for quickly generating secure, unique passwords for accounts or applications.
+ 
 ## ⚠ Disclaimer
 
  > This repository is created for **educational purposes only** as part of a cybersecurity internship task. All activities were performed in a secure and ethical environment. Do not attempt to perform password cracking or related activities on unauthorized systems.
