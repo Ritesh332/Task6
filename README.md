@@ -11,7 +11,7 @@ To understand what makes a password strong and to evaluate password strength usi
 
     [Password Generator](https://www.zoho.com/vault/password-generator.html)
    
-    [Nord Pass](https://nordpass.com/most-common-passwords-list/) (for common password list specifically in India)
+    [Nord Pass](https://nordpass.com/most-common-passwords-list/) (for common passwords list specifically in India)
 2. Tested each one using an online strength checker like:
    
      [passwordmeter.com](http://www.passwordmeter.com/)
@@ -26,6 +26,6 @@ To understand what makes a password strong and to evaluate password strength usi
 
 ## ⚠ Disclaimer
 
-  This repository is created for **educational purposes only** as part of a cybersecurity internship task. All activities were performed in a secure and ethical environment. Do not attempt to perform password cracking or related activities on unauthorized systems.
+ > This repository is created for **educational purposes only** as part of a cybersecurity internship task. All activities were performed in a secure and ethical environment. Do not attempt to perform password cracking or related activities on unauthorized systems.
 
 ---
