@@ -58,6 +58,5 @@ Password complexity significantly increases the security of user accounts and sy
 
 5. Passphrases Improve Usability and Security:
  - Long but memorable passphrases (e.g., `Yellow_Tiger^Runs7Fast`) offer both strength and recall.
-
-## Additional Information
  
+---
